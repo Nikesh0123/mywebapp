@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'sahanadocker10/mywebapp'
+        IMAGE_NAME = 'nikeshgouda/mywebapp'
     }
 
     stages {
